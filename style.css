@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(222, 99, 222);
+    padding: 2%;
+    text-align: justify;
+    color: white;
+}
+
+#next{
+    padding: 1%;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    transition: ease 0.2s;
+}
+
+#next:hover{
+    cursor: pointer;
+    transform: scale(.9);
+}
+
+footer{
+    background-color: yellow;
+    padding: 1%;
+}
